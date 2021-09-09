@@ -20,6 +20,6 @@ You can run this app on your local development machine by following the steps pr
 4. Install dependencies by running the script `npm install`.
 5. Run the server by running the script `npm start`. The server will run on localhost:4000.
 6. You can access the graphiql playground on http://localhost:4000/graphql.
-7. Go to previous directory and run script 'npm install'.
-8. Run the app by running the script 'npm start'. The app will run on http://localhost:3000.
+7. Go to previous directory and run script `npm install`.
+8. Run the app by running the script `npm start`. The app will run on http://localhost:3000.
 
