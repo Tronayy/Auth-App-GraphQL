@@ -12,7 +12,7 @@ The project makes use of:
 2. Managing authentication in GraphQL. Concept of protected and unprotected routes depending on whether user is logged in or not.
 
 ## How to run?
-There is another public repository [auth-graphql-server](https://github.com/Asfand038/auth-graphql-server). Follow the guidelines in that repository to run server on your local development machine. After you successfully run the server, you can run this app on your local development machine by following the steps provided below:
+You can run this app on your local development machine by following the steps provided below:
 
 1. Clone the repo or download zip file.
 2. Go to server directory.
